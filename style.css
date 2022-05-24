@@ -1,0 +1,57 @@
+#section-1-el{
+    margin-top: 30px;
+    border: darkgreen;
+    border: solid;
+    text-align: center;
+    background-color: burlywood;
+ 
+}
+
+#input-el{
+    display: block;
+    
+}
+.mainHead-el,#mainHead2-el{
+    color: brown;
+    font-weight:bold;
+    font-size: 50px;
+    text-align: center;
+}
+.para-el{
+    color: brown;
+    font-weight:bold;
+    font-size: 20px;
+    text-align: left;
+}
+#btn-el,#btn2-el{
+    background-color: darkgreen;
+    color: rgb(255, 255, 255);
+    border-color: darkgreen ;
+    padding: 10px;
+    font-weight: bold;
+    font-variant: small-caps;
+    margin-top: 40px;
+    margin-right: 20px;
+}
+#savebtn-el,#savebtn2-el{
+    background-color:white;
+    color:darkgreen;
+    border-color: darkgreen ;
+    padding: 10px;
+    font-weight: bold;
+    font-variant: small-caps;
+    margin-top: 40px;
+    margin-right: 20px;
+
+}
+#clearbtn-el,#clearbtn2-el{
+    background-color: darkgreen;
+    color: rgb(255, 255, 255);
+    border-color: darkgreen ;
+    padding: 10px;
+    font-weight: bold;
+    font-variant: small-caps;
+    margin-top: 40px;
+    margin-right: 20px;
+
+}
